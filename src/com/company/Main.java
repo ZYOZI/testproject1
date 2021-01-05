@@ -16,7 +16,7 @@ public class Main {
         restaurant.sell(restaurant.pie);
         restaurant.sell(restaurant.iceCream);
 
-        System.out.println("В кассе у ресторана: "+restaurant.fullPrice());
+        System.out.println("В кассовом ящике у ресторана: "+restaurant.fullPrice());
 
     }
 }
