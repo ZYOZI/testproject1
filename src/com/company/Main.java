@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     /**
-     * ДЗ.
+     *
      * 1. static
      * 2. TODO 1 - Restaurant
      * 3. TODO 2 - Getters
