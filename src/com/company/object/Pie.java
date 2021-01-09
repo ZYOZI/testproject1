@@ -1,14 +1,16 @@
 package com.company.object;
 
 public class Pie implements Product{
+    private String name = "Пирожок ";
+    private int price = 59;
 
     @Override
-    public String name() {
-        return "Пирожок ";
+    public String getName() {
+        return name;
     }
 
     @Override
-    public int price() {
-        return 59;
+    public int getPrice() {
+        return price;
     }
 }

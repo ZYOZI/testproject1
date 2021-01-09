@@ -1,14 +1,16 @@
 package com.company.object;
 
 public class IceCream implements Product{
+    private String name = "Мак-Флури ";
+    private int price = 114;
 
     @Override
-    public String name() {
-        return "Мак-флури ";
+    public String getName() {
+        return name;
     }
 
     @Override
-    public int price() {
-        return 129;
+    public int getPrice() {
+        return price;
     }
 }

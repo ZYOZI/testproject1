@@ -1,14 +1,16 @@
 package com.company.object;
 
-public class Burger2 implements Product{
+public class Burger2 implements Product {
+    private String name = "Бургер 2 ";
+    private int price = 139;
 
     @Override
-    public String name() {
-        return "Бургер 2 ";
+    public String getName() {
+        return name;
     }
 
     @Override
-    public int price() {
-        return 139;
+    public int getPrice() {
+        return price;
     }
 }
