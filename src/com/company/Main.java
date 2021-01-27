@@ -5,8 +5,8 @@ public class Main {
     /**
      *
      * 1. static
-     * 2. TODO 1 - Restaurant
-     * 3. TODO 2 - Getters
+     * 2. Составить список уроков по названиям видео. Повторить/Просмотреть все темы.
+     * 3.
      * 4. https://rutracker.org/forum/viewtopic.php?t=5104084
      */
     public static void main(String[] args) {
